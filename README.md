@@ -1,1 +1,1 @@
-# ticket_mangment_mysql
+# ticket_managment_mysql
