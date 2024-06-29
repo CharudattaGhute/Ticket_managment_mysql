@@ -53,8 +53,12 @@ The API uses a MySQL database to store ticket remark data. The database schema c
 -------------------
 
 1. Clone the repository: `git clone https://github.com/your-username/ticket-remarks-api.git`
-2. Install dependencies: `npm install`
-3. Create a MySQL database and update the `config/db.js` file with your database credentials
+2. Install dependencies:
+#### `npm install express`,
+#### `npm install mongoose`,
+#### `npm install nodemon`,
+#### 'npm install body-parser'
+3.Create a MySQL database and update the `config/db.js` file with your database credentials
 4. Start the server: `node server.js`
 5. Use a tool like Postman or cURL to test the API endpoints
 
