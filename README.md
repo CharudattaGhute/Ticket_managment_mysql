@@ -3,7 +3,7 @@
 **Ticket Remarks API**
 =====================
 
-This is a RESTful API for managing ticket remarks. The API provides endpoints for creating, reading, updating, and deleting ticket remarks.
+This is a REST API for managing ticket remarks. The API provides endpoints for creating, reading, updating, and deleting ticket remarks.
 
 **Endpoints**
 ------------
