@@ -1,5 +1,3 @@
-# ticket_managment_mysql
-
 **Ticket Remarks API**
 =====================
 
